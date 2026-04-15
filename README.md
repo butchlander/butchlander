@@ -1,9 +1,10 @@
+BRO MY github is fuckinf tweaking ignore this for now
+
 <div align="center"> <img src="https://i.pinimg.com/736x/f4/65/e0/f465e08dd8ea2fb571eca3d8cc2ad4cf.jpg" width="300" height="300" alt="image""> </div>
 
-
-<img src="https://64.media.tumblr.com/de0491d768a5f51ade3859c22195eb78/9db18186ec8e42d5-77/s250x400/e6f6d8773d7e0f2761b1f2ff4ce556ba6516e5e0.pnj" width="90" height="50" align="center"> 
-<img src="https://64.media.tumblr.com/7ac328204395dc076221475d3af8ecc2/44e699638b6a68ec-2d/s100x200/937cbc428445360170dbc122970d1d68ba793df0.pnj" width="90" height="50" align="center"> 
-<img src="https://64.media.tumblr.com/a117b5b42bd3e7b429cfe3ac374ca98d/4e92bb8d32c82676-65/s100x200/a8340f3ff2d0fa1c8c2a2b31cad482adc49c101d.gifv" width="90" height="50" align="center">
+<div align="center"> <img src="https://64.media.tumblr.com/de0491d768a5f51ade3859c22195eb78/9db18186ec8e42d5-77/s250x400/e6f6d8773d7e0f2761b1f2ff4ce556ba6516e5e0.pnj" width="90" height="50"> 
+<img src="https://64.media.tumblr.com/7ac328204395dc076221475d3af8ecc2/44e699638b6a68ec-2d/s100x200/937cbc428445360170dbc122970d1d68ba793df0.pnj" width="90" height="50" > 
+<img src="https://64.media.tumblr.com/a117b5b42bd3e7b429cfe3ac374ca98d/4e92bb8d32c82676-65/s100x200/a8340f3ff2d0fa1c8c2a2b31cad482adc49c101d.gifv" width="90" height="50" > </div>
 
 <a href="https://rentry.co/capsicle">extended</a> 
 <img src="https://64.media.tumblr.com/dcd4b46f58db3d97514b7be3d9863071/a89d4e00fa19cadc-b6/s75x75_c1/91814474e8c4688431c2affa781d6b82374815bb.gifv" width="15" height="15" align="center" > <a href="https://rentry.co/zweig">main</a> 
