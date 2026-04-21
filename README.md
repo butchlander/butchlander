@@ -1,5 +1,3 @@
-BRO MY github is fuckinf tweaking ignore this for now
-
 <div align="center"> <img src="https://i.pinimg.com/736x/f4/65/e0/f465e08dd8ea2fb571eca3d8cc2ad4cf.jpg" width="300" height="300" alt="image""> </div>
 
 <div align="center">
