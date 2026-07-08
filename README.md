@@ -1,5 +1,5 @@
 
 <div align="center"> 
-<a href="https://rentry.co/damian"> Rentry </a> <img src="https://i.ibb.co/Fb5H1DKy/5bRWeGH.gif"> <a href="https://crybaby.atabook.org">新Book </a>   </div>
+<div style="background-color: white; display: inline-block; padding;" align="center"> <img src="https://files.catbox.moe/x0e2l0.png" width="180" alt="image""> </div>
+<a href="https://rentry.co/damian"> Rentry </a> <img src="https://pixels.crd.co/assets/images/gallery18/fc14c899.gif?v=29416114"> <a href="https://crybaby.atabook.org">新Book </a>   </div>
 
-<div style="background-color: white; display: inline-block; padding;" align="center"> <img src="https://i.pinimg.com/webp/736x/d7/9e/78/d79e787a9a7df25077298674905f2189.webp" width="180" alt="image""> </div>
